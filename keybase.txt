@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/turicas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://turicas.info
+  * I am turicas (https://keybase.io/turicas) on keybase.
+  * I have a public key with fingerprint 5763 105F 344A C227 9831  4139 150C 8BAE 1D44 961E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e722b1d23748150aa9c3fd608b6b8e9d30be7f59cd6dfac28791f2ebfc9648e40a",
+            "fingerprint": "5763105f344ac22798314139150c8bae1d44961e",
+            "host": "keybase.io",
+            "key_id": "150c8bae1d44961e",
+            "kid": "0101e722b1d23748150aa9c3fd608b6b8e9d30be7f59cd6dfac28791f2ebfc9648e40a",
+            "uid": "6d2f55e210800d455f38b8b40c541319",
+            "username": "turicas"
+        },
+        "service": {
+            "hostname": "turicas.info",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1442624029,
+    "expire_in": 157680000,
+    "prev": "9d71a07e6b80e7761ffc2d6c5ec6fada9612a58f0d4a63505d75b0b9417398f1",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUn1MVWUcBi4SMImAwEpBOirIh3C+P25juSLM1BHylYZczsd7LqeL59zuOVxQ
+Yqu1QUhqjsAwJ1KrASuWTJZMwRScHyxgtOuKaUpDHAglH+aQr97D6o+2/uyvd+/v
+fZ7nfZ5nv0+CLF7+3uGrq1sjU+uivHvHBK/shbaYMkTQpAOItQxxgJUDFElAN2wO
+RUKsCIqhGGBwXMAknGBIFqNQnudEQpZolBVogQWcRKACYGSKEyVaknkRZxkOk3Eg
+yCJHkywgUR5JRGRFtQOX06WoBpSlGJrAUEomSBIScIZjCYzECA7Ki6zAA0wiSY7G
+ACQWarrJgOYEXgdJigZn8GJbsfcf+P/Zd/GKHC3hMkUBHENZFJVICjpnBVYgUZGC
+tjHOBOrApfL7AUQbxS5F5HWkPBGBQ7ciArNXM8i/AUmKKptxnC7N0EStCL4UGobT
+ahKNA04TWQIE298aNkFRJdgiJLiBS1c0FbFiECkaiimKkSRO4ySKc4kIKHUqLmBT
+TASsGnpGUfMb4IaSnMRgPMoAOkdgUcAwNCbLIi7RIgVEWuYlHhaJ8xQrw6A8TVAo
+JTGUgAociTEEx8oYYsZ6V9UQKwl98naoqSt2lYepAFIeWOWzztfL29/Lb5WPuV9e
+gQHP/LN0gw3BS8SLWOslT8m8f8WDWt/TO+nGhK7mwae3DV3vOkhmz3QEBXx24+TF
+i9Ld3vY594c2+quUPZ6wCYv2AXrorVgrNYmEro/5aea1J7MbN3VGbe3P7xufHtp2
+dLTnzEB+Ze/qzXeiVXKwoyAyYzn+eDV+rr3AJ8xT/7PaGeX2TO/T5ZFXE2694Wwe
+0lJDflu8nXFN35G2vi7zgjU27lj5U2VNtZpzzf3oenXhWuW9pK2Lz59oHz77/eTa
+hJaimoyc2gl3g/XyRyM54pNbD5nskH2bGjOLv0RffmVqC5l8Ko+7fRxrebZ7zhle
+mOn5drcdDdnTnjK2d/9yApVWyYfHl24fY3Pmb+4s3X3uhflLfa870i1rS/rzMv2C
+6ssGgqtCnV8v5KlY5mRUVsvHtnRtakb/9UpaQfxYnzWveUP32zvCLkR3fhcXRXly
+Ao8EDVdOHU029D/TeKNMerTw6MddxyYsba1if8P5q5eXVUdwm514MPfmaFfsKeEO
+cpivOb936fHUGV01bpDDyUkVofTmE3XvRF9Nnf7m0wmH9+Mfzub2BOfHtJcufZF7
+77kB5WD8lTXX785XZTM13g8t6RHljp7cDRXbkz+Pi0iJzWqYOVm96sj68fcipd/7
+sn6J4CKz399yOH7+ZoBlcHp210jT+H37upca/hhu3OheLEk7XdfW7VvU1NGmz46i
+fn8B
+=tYMh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/turicas
+
+==================================================================
